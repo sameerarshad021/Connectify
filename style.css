@@ -60,7 +60,7 @@ input{
     font-weight: 400;
     padding: 16px;
     margin-bottom: 8px;
-    border: none;
+    /* border: none; */
 }
 
 button {
